@@ -1,0 +1,5 @@
+com/acmeair/entities/AirportCodeMapping.class
+com/acmeair/entities/FlightSegment.class
+com/acmeair/entities/Booking.class
+com/acmeair/AcmeAirConstants.class
+com/acmeair/entities/Flight.class

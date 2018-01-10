@@ -1,0 +1,14 @@
+test/com/acmeair/service/CustomerRestApplication$CustomerRestApp.class
+com/acmeair/customer/templates/CustomerTemplateLoader.class
+com/acmeair/customer/templates/CustomerTemplateLoader$2.class
+com/acmeair/CustomerServiceApplicationTestBase.class
+com/acmeair/customer/templates/CustomerTemplateLoader$1.class
+com/acmeair/web/CustomerRESTTest.class
+com/acmeair/CustomerServiceApplicationMongodbTest.class
+com/acmeair/customer/templates/CustomerTemplateLoader$5.class
+test/com/acmeair/service/CustomerRestApplication.class
+com/acmeair/morphia/services/CustomerServiceImplTest.class
+com/acmeair/customer/templates/CustomerTemplateLoader$4.class
+com/acmeair/CustomerServiceApplicationJpaTest.class
+com/acmeair/web/CustomerServiceContractTest.class
+com/acmeair/customer/templates/CustomerTemplateLoader$3.class

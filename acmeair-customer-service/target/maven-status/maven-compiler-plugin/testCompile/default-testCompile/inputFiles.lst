@@ -1,0 +1,8 @@
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/morphia/services/CustomerServiceImplTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/CustomerServiceApplicationTestBase.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/test/com/acmeair/service/CustomerRestApplication.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/CustomerServiceApplicationJpaTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/web/CustomerRESTTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/web/CustomerServiceContractTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/CustomerServiceApplicationMongodbTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-customer-service/src/test/java/com/acmeair/customer/templates/CustomerTemplateLoader.java

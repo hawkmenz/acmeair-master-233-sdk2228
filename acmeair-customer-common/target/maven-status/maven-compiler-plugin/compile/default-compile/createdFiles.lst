@@ -1,0 +1,9 @@
+com/acmeair/entities/TokenInfo.class
+com/acmeair/entities/Customer$PhoneType.class
+com/acmeair/web/dto/AddressInfo.class
+com/acmeair/entities/Customer.class
+com/acmeair/entities/CustomerSession.class
+com/acmeair/web/dto/CustomerInfo.class
+com/acmeair/entities/Customer$MemberShipStatus.class
+com/acmeair/entities/CustomerAddress.class
+com/acmeair/web/dto/CustomerSessionInfo.class

@@ -1,0 +1,7 @@
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/hystrix/SpringAuthenticationCommand.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/web/RESTCookieSessionFilter.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/hystrix/CseAuthenticationCommand.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/web/LoginCookieUpdateFilter.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/hystrix/AuthenticationCommand.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/AcmeAirGatewayApplication.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/main/java/com/acmeair/web/UriRewriteFilter.java

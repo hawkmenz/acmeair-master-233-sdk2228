@@ -1,0 +1,5 @@
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/test/java/com/acmeair/hystrix/TestAuthenticationCommand.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/test/java/com/acmeair/hystrix/AuthenticationCommandValidationTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/test/java/com/acmeair/hystrix/AuthenticationCommandValidationFailedTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/test/java/com/acmeair/web/LoginCookieUpdateFilterTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-webapp/src/test/java/com/acmeair/web/UriRewriteFilterTest.java

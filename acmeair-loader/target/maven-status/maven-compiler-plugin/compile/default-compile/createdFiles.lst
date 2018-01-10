@@ -1,0 +1,7 @@
+com/acmeair/loader/CseRemoteCustomerLoader.class
+com/acmeair/loader/RemoteCustomerLoader.class
+com/acmeair/loader/CustomerLoader.class
+com/acmeair/loader/Loader.class
+com/acmeair/loader/FlightLoader.class
+com/acmeair/loader/SpringCloudCustomerLoader.class
+com/acmeair/loader/RemoteCustomerLoader$1.class

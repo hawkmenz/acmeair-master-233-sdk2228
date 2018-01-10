@@ -1,0 +1,42 @@
+{
+    "provider": {
+        "name": "CustomerService"
+    },
+    "consumer": {
+        "name": "RemoteCustomerLoader"
+    },
+    "interactions": [
+        {
+            "description": "a request to load customers",
+            "request": {
+                "method": "POST",
+                "path": "/rest/info/loader/load",
+                "query": "number=5"
+            },
+            "response": {
+                "status": 204
+            },
+            "providerState": "Remote customer loader is available"
+        },
+        {
+            "description": "a request to load customers",
+            "request": {
+                "method": "POST",
+                "path": "/rest/info/loader/load",
+                "query": "number=5"
+            },
+            "response": {
+                "status": 500
+            },
+            "providerState": "Remote customer loader is not available"
+        }
+    ],
+    "metadata": {
+        "pact-specification": {
+            "version": "2.0.0"
+        },
+        "pact-jvm": {
+            "version": "3.2.13"
+        }
+    }
+}

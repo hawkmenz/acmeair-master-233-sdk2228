@@ -1,0 +1,5 @@
+com/acmeair/hystrix/AuthenticationCommandValidationTest.class
+com/acmeair/hystrix/TestAuthenticationCommand.class
+com/acmeair/hystrix/AuthenticationCommandValidationFailedTest.class
+com/acmeair/web/LoginCookieUpdateFilterTest.class
+com/acmeair/web/UriRewriteFilterTest.class

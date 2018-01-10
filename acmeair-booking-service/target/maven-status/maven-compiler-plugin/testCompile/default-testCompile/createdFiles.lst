@@ -1,0 +1,11 @@
+com/acmeair/booking/templates/BookingDtoTemplateLoader$1.class
+com/acmeair/hystrix/UserCommandFetchingCustomerFailedTest.class
+com/acmeair/booking/templates/BookingDtoTemplateLoader.class
+com/acmeair/web/BookingsRESTTest.class
+com/acmeair/AcmeAirApplicationJpaTest.class
+com/acmeair/hystrix/TestUserCommand.class
+com/acmeair/hystrix/UserCommandTest.class
+com/acmeair/web/FlightsRESTTest.class
+com/acmeair/AcmeAirApplicationTestBase.class
+com/acmeair/FlightRestTestApplication.class
+com/acmeair/AcmeAirApplicationMongodbTest.class

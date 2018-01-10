@@ -1,0 +1,60 @@
+{
+    "provider": {
+        "name": "CustomerService"
+    },
+    "consumer": {
+        "name": "UserService"
+    },
+    "interactions": [
+        {
+            "description": "a request for Sean",
+            "request": {
+                "method": "GET",
+                "path": "/rest/api/customer/sean-123"
+            },
+            "response": {
+                "status": 200,
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "body": {
+                    "id": "sean-123",
+                    "password": "password",
+                    "status": "PLATINUM",
+                    "total_miles": 1000,
+                    "miles_ytd": 356,
+                    "address": {
+                        "streetAddress1": "White Plains",
+                        "streetAddress2": "Avenue 1",
+                        "city": "New York City",
+                        "stateProvince": "New York",
+                        "country": "USA",
+                        "postalCode": "100010"
+                    },
+                    "phoneNumber": "100-100-111",
+                    "phoneNumberType": "MOBILE"
+                }
+            },
+            "providerState": "Customer Sean is registered"
+        },
+        {
+            "description": "a request for Mike",
+            "request": {
+                "method": "GET",
+                "path": "/rest/api/customer/mike"
+            },
+            "response": {
+                "status": 500
+            },
+            "providerState": "No customer Mike found"
+        }
+    ],
+    "metadata": {
+        "pact-specification": {
+            "version": "2.0.0"
+        },
+        "pact-jvm": {
+            "version": "3.2.13"
+        }
+    }
+}

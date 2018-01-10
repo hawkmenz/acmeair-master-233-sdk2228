@@ -1,0 +1,57 @@
+{
+    "provider": {
+        "name": "CustomerService"
+    },
+    "consumer": {
+        "name": "AuthenticationService"
+    },
+    "interactions": [
+        {
+            "description": "a request to validate Sean",
+            "request": {
+                "method": "POST",
+                "path": "/rest/api/login/validate",
+                "headers": {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                "query": "sessionId=session-id-434200"
+            },
+            "response": {
+                "status": 200,
+                "headers": {
+                    "Content-Type": "application/json"
+                },
+                "body": {
+                    "id": "session-id-434200",
+                    "customerid": "sean-123",
+                    "lastAccessedTime": 1491580800000,
+                    "timeoutTime": 1807027200000
+                }
+            },
+            "providerState": "Customer Sean is registered"
+        },
+        {
+            "description": "a request to validate Mike",
+            "request": {
+                "method": "POST",
+                "path": "/rest/api/login/validate",
+                "headers": {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                "query": "sessionId=session-mike-123"
+            },
+            "response": {
+                "status": 500
+            },
+            "providerState": "No customer Mike found"
+        }
+    ],
+    "metadata": {
+        "pact-specification": {
+            "version": "2.0.0"
+        },
+        "pact-jvm": {
+            "version": "3.2.13"
+        }
+    }
+}

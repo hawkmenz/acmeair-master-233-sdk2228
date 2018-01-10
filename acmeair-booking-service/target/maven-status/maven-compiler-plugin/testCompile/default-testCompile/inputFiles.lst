@@ -1,0 +1,10 @@
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/AcmeAirApplicationMongodbTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/web/FlightsRESTTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/AcmeAirApplicationTestBase.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/hystrix/TestUserCommand.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/AcmeAirApplicationJpaTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/FlightRestTestApplication.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/hystrix/UserCommandTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/hystrix/UserCommandFetchingCustomerFailedTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/web/BookingsRESTTest.java
+/mnt/build/workspace/DemoPackage/acmeair/acmeair/acmeair-master/acmeair-booking-service/src/test/java/com/acmeair/booking/templates/BookingDtoTemplateLoader.java
