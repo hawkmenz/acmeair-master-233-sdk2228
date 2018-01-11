@@ -89,7 +89,7 @@
         <dependency>
           <groupId>com.huawei.paas.cse</groupId>
           <artifactId>foundation-auth</artifactId>
-          <version>2.2.28</version>
+          <version>${cse.version}</version>
           <exclusions>
             <exclusion>
               <groupId>org.slf4j</groupId>
@@ -108,7 +108,7 @@
         <dependency>
           <groupId>com.huawei.paas.cse</groupId>
           <artifactId>foundation-config-cc</artifactId>
-          <version>2.2.28</version>
+          <version>${cse.version}</version>
           <exclusions>
             <exclusion>
               <groupId>io.servicecomb</groupId>
@@ -123,7 +123,7 @@
         <dependency>
           <groupId>com.huawei.paas.cse</groupId>
           <artifactId>cse-handler-tracing</artifactId>
-          <version>2.2.28</version>
+          <version>${cse.version}</version>
           <exclusions>
             <exclusion>
               <groupId>io.servicecomb</groupId>
@@ -138,7 +138,7 @@
         <dependency>
           <groupId>com.huawei.paas.cse</groupId>
           <artifactId>cse-handler-performance-stats</artifactId>
-          <version>2.2.28</version>
+          <version>${cse.version}</version>
           <exclusions>
             <exclusion>
               <groupId>io.servicecomb</groupId>
@@ -153,7 +153,7 @@
         <dependency>
           <groupId>com.huawei.paas.cse</groupId>
           <artifactId>cse-handler-cloud-extension</artifactId>
-          <version>2.2.28</version>
+          <version>${cse.version}</version>
           <exclusions>
             <exclusion>
               <groupId>io.servicecomb</groupId>
